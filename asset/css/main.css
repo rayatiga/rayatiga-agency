@@ -1,0 +1,10 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    --light: #f8f9fa;
+    --dark: #212529;
+}
+
+*::selection {
+    color: var(--light);
+    background-color: var(--dark);
+}
