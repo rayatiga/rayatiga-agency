@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /arc
+Disallow: /hiring
 
 Sitemap: https://rayatiga.com/sitemap.xml
